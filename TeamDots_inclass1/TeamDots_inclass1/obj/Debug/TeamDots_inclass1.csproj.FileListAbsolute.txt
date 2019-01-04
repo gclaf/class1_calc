@@ -1,6 +1,7 @@
-\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\bin\Debug\TeamDots_inclass1.exe.config
-\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\bin\Debug\TeamDots_inclass1.exe
-\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\bin\Debug\TeamDots_inclass1.pdb
-\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\obj\Debug\TeamDots_inclass1.csprojResolveAssemblyReference.cache
-\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\obj\Debug\TeamDots_inclass1.exe
-\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\obj\Debug\TeamDots_inclass1.pdb
+C:\Users\cutte\Desktop\School\Winter2019\CloudComputing\Week1\class1_calc\TeamDots_inclass1\TeamDots_inclass1\bin\Debug\TeamDots_inclass1.exe.config
+C:\Users\cutte\Desktop\School\Winter2019\CloudComputing\Week1\class1_calc\TeamDots_inclass1\TeamDots_inclass1\bin\Debug\TeamDots_inclass1.exe
+C:\Users\cutte\Desktop\School\Winter2019\CloudComputing\Week1\class1_calc\TeamDots_inclass1\TeamDots_inclass1\bin\Debug\TeamDots_inclass1.pdb
+C:\Users\cutte\Desktop\School\Winter2019\CloudComputing\Week1\class1_calc\TeamDots_inclass1\TeamDots_inclass1\obj\Debug\TeamDots_inclass1.csprojAssemblyReference.cache
+C:\Users\cutte\Desktop\School\Winter2019\CloudComputing\Week1\class1_calc\TeamDots_inclass1\TeamDots_inclass1\obj\Debug\TeamDots_inclass1.csproj.CoreCompileInputs.cache
+C:\Users\cutte\Desktop\School\Winter2019\CloudComputing\Week1\class1_calc\TeamDots_inclass1\TeamDots_inclass1\obj\Debug\TeamDots_inclass1.exe
+C:\Users\cutte\Desktop\School\Winter2019\CloudComputing\Week1\class1_calc\TeamDots_inclass1\TeamDots_inclass1\obj\Debug\TeamDots_inclass1.pdb
