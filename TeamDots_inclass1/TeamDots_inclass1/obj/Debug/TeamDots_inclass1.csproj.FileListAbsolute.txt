@@ -1,0 +1,6 @@
+\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\bin\Debug\TeamDots_inclass1.exe.config
+\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\bin\Debug\TeamDots_inclass1.exe
+\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\bin\Debug\TeamDots_inclass1.pdb
+\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\obj\Debug\TeamDots_inclass1.csprojResolveAssemblyReference.cache
+\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\obj\Debug\TeamDots_inclass1.exe
+\\pwstuhome01\Shares\Students\Homeshares\S-Grace.Claflin\Desktop\TeamDots_inclass1\TeamDots_inclass1\obj\Debug\TeamDots_inclass1.pdb
